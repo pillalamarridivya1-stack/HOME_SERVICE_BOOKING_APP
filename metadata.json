@@ -1,0 +1,6 @@
+{
+  "name": "HomeServe - Home Services Booking App",
+  "description": "A clean frontend-only Home Services Booking Application built with React.js, Vite, and Local Storage featuring User and Admin dashboards.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
